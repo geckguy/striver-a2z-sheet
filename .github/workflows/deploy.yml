@@ -1,0 +1,57 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify the dataset is intact
+        run: |
+          python3 - <<'PY'
+          import json, pathlib
+          data = json.loads(pathlib.Path("site/data.json").read_text())
+          problems = data["problems"]
+          assert len(problems) == data["meta"]["problemCount"]
+          assert [p["order"] for p in problems] == list(range(1, len(problems) + 1))
+          assert all(p["url"].startswith("http") for p in problems)
+          assert len({p["id"] for p in problems}) == len(problems)
+          assert [s["n"] for s in data["meta"]["steps"]] == list(range(1, data["meta"]["stepCount"] + 1))
+          for p in problems:
+              assert p["stepTitle"] == data["meta"]["steps"][p["step"] - 1]["title"], p["id"]
+              assert p["difficulty"] in ("", "Easy", "Medium", "Hard"), p["id"]
+              assert p["platform"] in ("leetcode", "gfg", "takeuforward"), p["id"]
+          print(f"{len(problems)} problems, {len(data['meta']['steps'])} modules, ok")
+          PY
+
+      - name: Verify README numbers match the dataset
+        run: python3 scripts/check_readme.py
+
+      - name: Stamp asset URLs with a content hash
+        run: python3 scripts/stamp_assets.py
+        # GitHub Pages caches every file for 600s. Without this, a browser can pair freshly
+        # revalidated markup with a cached script and break the page.
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

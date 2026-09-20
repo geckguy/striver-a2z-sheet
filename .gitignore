@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# scratch
+*.log
+__pycache__/
+
+# agent tooling installed by `npx skills add` (third-party skill, not part of the deliverable)
+.agents/
+
+# symlink the skill installer creates for Claude Code (points into .agents/, which is ignored)
+.claude/
+
+# community sheet mirrors: third-party copies, reduced to data/raw/gfg_candidates_repo.json
+data/raw/gh/
+
+# skill-installer lock (tooling metadata for a skill that is not shipped here)
+skills-lock.json

@@ -1,0 +1,1060 @@
+{
+ "candidates": {
+  "0 1 knapsack": [
+   "0-1-knapsack-problem0945"
+  ],
+  "3 d dp ninja his friends": [
+   "chocolates-pickup"
+  ],
+  "add 1 number represented by ll": [
+   "add-1-to-a-number-represented-as-linked-list"
+  ],
+  "aggressive cows": [
+   "aggressive-cows"
+  ],
+  "all divisors number": [
+   "all-divisors-of-a-number"
+  ],
+  "articulation point": [
+   "articulation-point-1"
+  ],
+  "bellman ford algorithm": [
+   "distance-from-the-source-bellman-ford-algorithm"
+  ],
+  "bfs": [
+   "bfs-traversal-of-graph"
+  ],
+  "binary tree representation c": [
+   "binary-tree-representation"
+  ],
+  "binary tree representation java": [
+   "binary-tree-representation"
+  ],
+  "binary tree traversals binary tree": [
+   "preorder-traversal"
+  ],
+  "bit prerequisites trie problems": [
+   "bits-basic-operations"
+  ],
+  "book allocation": [
+   "allocate-minimum-number-of-pages0937"
+  ],
+  "bottom view binary tree": [
+   "bottom-view-of-binary-tree"
+  ],
+  "bubble sort": [
+   "bubble-sort"
+  ],
+  "ceil binary search tree": [
+   "implementing-ceil-in-bst"
+  ],
+  "check children sum property": [
+   "children-sum-parent"
+  ],
+  "check if array represents min heap or not": [
+   "does-array-represent-heap4345"
+  ],
+  "check if i th bit is or not": [
+   "check-whether-k-th-bit-is-set-or-not-1587115620"
+  ],
+  "check if number is odd or not": [
+   "odd-or-even3618"
+  ],
+  "check if there exists subsequence sum k": [
+   "perfect-sum-problem5633"
+  ],
+  "check prime": [
+   "minimum-number-of-jumps-1587115620"
+  ],
+  "connect n ropes minimal cost": [
+   "minimum-cost-of-ropes-1587115620"
+  ],
+  "connected components logic explanation": [
+   "number-of-provinces"
+  ],
+  "connected components matrix": [
+   "number-of-provinces"
+  ],
+  "convert infix prefix notation": [
+   "infix-to-postfix-1587115620"
+  ],
+  "convert min heap max heap": [
+   "convert-min-heap-to-max-heap-1666385109"
+  ],
+  "count all subsequences sum k": [
+   "perfect-sum-problem5633"
+  ],
+  "count digits": [
+   "count-digits5716"
+  ],
+  "count inversions": [
+   "inversion-of-array-1587115620"
+  ],
+  "count number bits": [
+   "count-total-set-bits-1587115620"
+  ],
+  "count number subarrays given xor k": [
+   "subsets-with-xor-value2023"
+  ],
+  "count number substrings": [
+   "count-number-of-substrings4528"
+  ],
+  "count occurrences number sorted array duplicates": [
+   "number-of-occurrence2259"
+  ],
+  "count palindromic subsequence given string": [
+   "count-palindromic-subsequences"
+  ],
+  "count partitions given difference": [
+   "partitions-with-given-difference"
+  ],
+  "count subsets sum k": [
+   "perfect-sum-problem5633"
+  ],
+  "counting frequencies array elements": [
+   "frequency-of-array-elements-1587115620"
+  ],
+  "cycle detection directed graph": [
+   "detect-cycle-in-a-directed-graph"
+  ],
+  "cycle detection undirected graph": [
+   "detect-cycle-in-an-undirected-graph"
+  ],
+  "cycle detection unirected graph": [
+   "detect-cycle-in-an-undirected-graph"
+  ],
+  "delete all occurrences key dll": [
+   "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list"
+  ],
+  "delete node dll": [
+   "delete-node-in-doubly-linked-list"
+  ],
+  "dfs": [
+   "depth-first-traversal-for-a-graph"
+  ],
+  "disjoint union by rank": [
+   "disjoint-set-union-find"
+  ],
+  "disjoint union by size": [
+   "disjoint-set-union-find"
+  ],
+  "djisktra s algorithm": [
+   "implementing-dijkstra-set-1-adjacency-matrix"
+  ],
+  "dynamic programming introduction": [
+   "introduction-to-dp"
+  ],
+  "factorial n numbers": [
+   "find-all-factorial-numbers-less-than-or-equal-to-n3548"
+  ],
+  "find highest lowest frequency element": [
+   "top-k-frequent-elements-in-array"
+  ],
+  "find length linkedlist learn traversal": [
+   "count-nodes-of-linked-list"
+  ],
+  "find min max bst": [
+   "minimum-element-in-bst"
+  ],
+  "find nth root number binary search": [
+   "find-nth-root-of-m5843"
+  ],
+  "find out how many times has array been rotated": [
+   "rotation4723"
+  ],
+  "find pairs given sum dll": [
+   "find-pairs-with-given-sum-in-doubly-linked-list"
+  ],
+  "find prime factorisation number sieve": [
+   "prime-factorization-using-sieve"
+  ],
+  "find repeating missing number": [
+   "find-missing-and-repeating2512"
+  ],
+  "find row maximum number 1 s": [
+   "row-with-max-1s0023"
+  ],
+  "find square root number log n": [
+   "square-root"
+  ],
+  "find two numbers appearing odd number times": [
+   "two-numbers-with-odd-occurrences5846"
+  ],
+  "find union intersection two sorted arrays": [
+   "union-of-two-sorted-arrays-1587115621"
+  ],
+  "flattening ll": [
+   "flattening-a-linked-list"
+  ],
+  "floor binary search tree": [
+   "floor-in-bst"
+  ],
+  "floyd warshal algorithm": [
+   "implementing-floyd-warshall2042"
+  ],
+  "fnd xor numbers from l r": [
+   "find-xor-of-numbers-from-l-to-r"
+  ],
+  "fractional knapsack": [
+   "fractional-knapsack-1587115620"
+  ],
+  "frog jump": [
+   "geek-jump"
+  ],
+  "frog jump k distances": [
+   "minimal-cost"
+  ],
+  "fruit into baskets": [
+   "712123"
+  ],
+  "functions": [
+   "pass-by-reference-and-value"
+  ],
+  "gcd or hcf": [
+   "lcm-and-gcd4516"
+  ],
+  "generate all binary strings": [
+   "generate-all-binary-strings"
+  ],
+  "graph representation c": [
+   "print-adjacency-list-1587115620"
+  ],
+  "graph representation java": [
+   "print-adjacency-list-1587115620"
+  ],
+  "graph types": [
+   "graph-and-vertices"
+  ],
+  "greedy algorithm find minimum number coins": [
+   "-minimum-number-of-coins4426"
+  ],
+  "hashing strings theory": [
+   "index-of-the-first-occurrence-of-pattern-in-a-text"
+  ],
+  "house robber": [
+   "stickler-theif-1587115621"
+  ],
+  "if else statements": [
+   "java-if-else-decision-making0924"
+  ],
+  "implement lower bound": [
+   "floor-in-a-sorted-array-1587115620"
+  ],
+  "implement queue arrays": [
+   "implement-queue-using-array"
+  ],
+  "implement queue linkedlist": [
+   "implement-queue-using-linked-list"
+  ],
+  "implement stack arrays": [
+   "implement-stack-using-array"
+  ],
+  "implement stack linkedlist": [
+   "implement-stack-using-linked-list"
+  ],
+  "implement trie 2": [
+   "trie-delete"
+  ],
+  "implement upper bound": [
+   "ceil-the-floor2802"
+  ],
+  "infix postfix conversion stack": [
+   "infix-to-postfix-1587115620"
+  ],
+  "insert node dll": [
+   "insert-a-node-in-doubly-linked-list"
+  ],
+  "inserting node linkedlist": [
+   "linked-list-insertion-1587115620"
+  ],
+  "insertion sort": [
+   "insertion-sort"
+  ],
+  "introduction binary search tree": [
+   "binary-search-trees"
+  ],
+  "introduction bit manipulation theory": [
+   "bit-manipulation-1666686020"
+  ],
+  "introduction dll learn about struct how is node represented": [
+   "introduction-to-doubly-linked-list"
+  ],
+  "introduction linkedlist learn about struct how is node represented": [
+   "introduction-to-linked-list"
+  ],
+  "introduction priority queues binary heaps": [
+   "implementation-of-priority-queue-using-binary-heap"
+  ],
+  "introduction trees": [
+   "introduction-to-trees"
+  ],
+  "job sequencing": [
+   "job-sequencing-problem-1587115620"
+  ],
+  "kahn s algorithm": [
+   "topological-sort"
+  ],
+  "kmp algo lps array": [
+   "search-pattern0205"
+  ],
+  "kosaraju s algorithm": [
+   "strongly-connected-components-kosarajus-algo"
+  ],
+  "kruskal s algorithm": [
+   "minimum-spanning-tree"
+  ],
+  "kth element 2 sorted arrays": [
+   "k-th-element-of-two-sorted-array1317"
+  ],
+  "kth smallest element array use priority queue": [
+   "kth-smallest-element5635"
+  ],
+  "largest bst binary tree": [
+   "largest-bst"
+  ],
+  "largest element array": [
+   "largest-element-in-array4009"
+  ],
+  "leaders array": [
+   "leaders-in-an-array-1587115620"
+  ],
+  "learn all patterns subsequences": [
+   "better-string"
+  ],
+  "length loop ll": [
+   "find-length-of-loop"
+  ],
+  "linear search": [
+   "who-will-win-1587115621"
+  ],
+  "longest bitonic subsequence": [
+   "longest-bitonic-subsequence0824"
+  ],
+  "longest common substring": [
+   "longest-common-substring1452"
+  ],
+  "longest increasing subsequence": [
+   "longest-increasing-subsequence-1587115620"
+  ],
+  "longest string all prefixes": [
+   "longest-common-prefix-in-an-array5129"
+  ],
+  "longest subarray given sum": [
+   "longest-sub-array-with-sum-k0809"
+  ],
+  "loops": [
+   "for-loop-primecheck-java"
+  ],
+  "m coloring": [
+   "m-coloring-problem-1587115620"
+  ],
+  "matrix chain multiplication": [
+   "matrix-chain-multiplication0303"
+  ],
+  "matrix chain multiplication bottom up": [
+   "matrix-chain-multiplication0303"
+  ],
+  "matrix median": [
+   "median-in-a-row-wise-sorted-matrix1527"
+  ],
+  "maximum sum combination": [
+   "maximum-sum-combination"
+  ],
+  "maximum sum non adjacent elements": [
+   "max-sum-without-adjacents2430"
+  ],
+  "merge sort": [
+   "merge-sort"
+  ],
+  "min heap max heap implementation": [
+   "operations-on-binary-min-heap"
+  ],
+  "minimum number platforms required railway": [
+   "minimum-platforms-1587115620"
+  ],
+  "minimum spanning tree": [
+   "minimum-spanning-tree"
+  ],
+  "minimum steps reach end from start by performing multiplication mod operations array elements": [
+   "minimum-multiplications-to-reach-end"
+  ],
+  "minimum time taken burn binary tree from node": [
+   "burning-tree"
+  ],
+  "n meetings one room": [
+   "n-meetings-in-one-room-1587115620"
+  ],
+  "next smaller element": [
+   "immediate-smaller-element1142"
+  ],
+  "ninja s training": [
+   "geeks-training"
+  ],
+  "number distinct substrings string": [
+   "count-of-distinct-substrings"
+  ],
+  "number nges right": [
+   "number-of-nges-to-the-right"
+  ],
+  "postfix infix": [
+   "postfix-to-infix-conversion"
+  ],
+  "postfix prefix conversion": [
+   "postfix-to-prefix-conversion"
+  ],
+  "prefix infix conversion": [
+   "prefix-to-infix-conversion"
+  ],
+  "prefix postfix conversion": [
+   "prefix-to-postfix-conversion"
+  ],
+  "preorder inorder postorder traversal one traversal": [
+   "postorder-traversal-iterative"
+  ],
+  "prim s algorithm": [
+   "minimum-spanning-tree"
+  ],
+  "print 1 n recursion": [
+   "print-1-to-n-without-using-loops-1587115620"
+  ],
+  "print all divisors": [
+   "sum-of-all-divisors-from-1-to-n4738"
+  ],
+  "print longest common subsequence": [
+   "print-all-lcs-sequences3413"
+  ],
+  "print n 1 recursion": [
+   "print-n-to-1-without-loop"
+  ],
+  "print name n times recursion": [
+   "print-gfg-n-times"
+  ],
+  "print prime factors number": [
+   "prime-factors5052"
+  ],
+  "printing longest increasing subsequence": [
+   "printing-longest-increasing-subsequence"
+  ],
+  "program least recently used page replacement algorithm": [
+   "page-faults-in-lru5603"
+  ],
+  "program shortest job first cpu scheduling": [
+   "shortest-job-first"
+  ],
+  "quick sort": [
+   "quick-sort"
+  ],
+  "rabin karp": [
+   "31272eef104840f7430ad9fd1d43b434a4b9596b"
+  ],
+  "rat maze": [
+   "rat-in-a-maze-problem"
+  ],
+  "recursive bubble sort": [
+   "bubble-sort"
+  ],
+  "recursive insertion sort": [
+   "insertion-sort"
+  ],
+  "remove duplicates from sorted dll": [
+   "remove-duplicates-from-a-sorted-doubly-linked-list"
+  ],
+  "replace each array element by its corresponding rank": [
+   "replace-elements-by-its-rank-in-the-array"
+  ],
+  "requirements needed construct unique binary tree theory": [
+   "unique-binary-tree-requirements"
+  ],
+  "reverse array": [
+   "reverse-an-array"
+  ],
+  "reverse dll": [
+   "reverse-a-doubly-linked-list"
+  ],
+  "reverse stack recursion": [
+   "reverse-a-stack"
+  ],
+  "rod cutting": [
+   "rod-cutting0840"
+  ],
+  "root node path binary tree": [
+   "root-to-leaf-paths"
+  ],
+  "search element ll": [
+   "search-in-linked-list-1664434326"
+  ],
+  "second largest element array without sorting": [
+   "second-largest3735"
+  ],
+  "selection sort": [
+   "selection-sort"
+  ],
+  "shortest path dag": [
+   "shortest-path-in-undirected-graph"
+  ],
+  "shortest path ug unit weights": [
+   "shortest-path-in-undirected-graph-having-unit-distance"
+  ],
+  "sort k sorted array": [
+   "merge-k-sorted-arrays"
+  ],
+  "sort ll 0 s 1 s 2 s by changing links": [
+   "given-a-linked-list-of-0s-1s-and-2s-sort-it"
+  ],
+  "sort stack recursion": [
+   "sort-a-stack"
+  ],
+  "subset sum equal target": [
+   "subset-sum-problem-1611555638"
+  ],
+  "subset sum i": [
+   "subset-sums2234"
+  ],
+  "sum first n numbers": [
+   "sum-of-first-n-terms5843"
+  ],
+  "swap two numbers": [
+   "swap-two-numbers3844"
+  ],
+  "switch statement": [
+   "java-switch-case-statement3529"
+  ],
+  "top view binary tree": [
+   "top-view-of-binary-tree"
+  ],
+  "topo sort": [
+   "topological-sort"
+  ],
+  "types": [
+   "data-type-1666706751"
+  ],
+  "unbounded knapsack": [
+   "knapsack-with-duplicate-items4201"
+  ],
+  "understand recursion by print something n times": [
+   "print-1-to-n-without-using-loops-1587115620"
+  ],
+  "unset rightmost unset bit": [
+   "set-the-rightmost-unset-bit4436"
+  ],
+  "why priority queue is used djisktra s algorithm": [
+   "implementing-dijkstra-set-1-adjacency-matrix"
+  ],
+  "z function": [
+   "8dcd25918295847b4ced54055eae35a8501181c1"
+  ]
+ },
+ "provenance": {
+  "-minimum-number-of-coins4426": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "0-1-knapsack-problem0945": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "31272eef104840f7430ad9fd1d43b434a4b9596b": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "712123": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "8dcd25918295847b4ced54055eae35a8501181c1": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "add-1-to-a-number-represented-as-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "aggressive-cows": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "all-divisors-of-a-number": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "allocate-minimum-number-of-pages0937": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "articulation-point-1": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "better-string": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "bfs-traversal-of-graph": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "binary-search-trees": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "binary-tree-representation": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "bit-manipulation-1666686020": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "bits-basic-operations": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "bottom-view-of-binary-tree": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "bubble-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "burning-tree": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "ceil-the-floor2802": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "check-whether-k-th-bit-is-set-or-not-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "children-sum-parent": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "chocolates-pickup": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "convert-min-heap-to-max-heap-1666385109": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-digits5716": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-nodes-of-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-number-of-substrings4528": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-of-distinct-substrings": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-palindromic-subsequences": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "count-total-set-bits-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "data-type-1666706751": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "delete-node-in-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "depth-first-traversal-for-a-graph": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "detect-cycle-in-a-directed-graph": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "detect-cycle-in-an-undirected-graph": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "disjoint-set-union-find": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "distance-from-the-source-bellman-ford-algorithm": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "does-array-represent-heap4345": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-all-factorial-numbers-less-than-or-equal-to-n3548": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-length-of-loop": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-missing-and-repeating2512": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-nth-root-of-m5843": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-pairs-with-given-sum-in-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "find-xor-of-numbers-from-l-to-r": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "flattening-a-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "floor-in-a-sorted-array-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "floor-in-bst": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "for-loop-primecheck-java": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "fractional-knapsack-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "frequency-of-array-elements-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "geek-jump": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "geeks-training": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "generate-all-binary-strings": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "given-a-linked-list-of-0s-1s-and-2s-sort-it": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "graph-and-vertices": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "immediate-smaller-element1142": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implement-queue-using-array": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implement-queue-using-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implement-stack-using-array": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implement-stack-using-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implementation-of-priority-queue-using-binary-heap": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implementing-ceil-in-bst": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implementing-dijkstra-set-1-adjacency-matrix": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "implementing-floyd-warshall2042": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "index-of-the-first-occurrence-of-pattern-in-a-text": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "infix-to-postfix-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "insert-a-node-in-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "insertion-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "introduction-to-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "introduction-to-dp": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "introduction-to-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "introduction-to-trees": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "inversion-of-array-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "java-if-else-decision-making0924": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "java-switch-case-statement3529": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "job-sequencing-problem-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "k-th-element-of-two-sorted-array1317": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "knapsack-with-duplicate-items4201": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "kth-smallest-element5635": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "largest-bst": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "largest-element-in-array4009": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "lcm-and-gcd4516": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "leaders-in-an-array-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "linked-list-insertion-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "longest-bitonic-subsequence0824": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "longest-common-prefix-in-an-array5129": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "longest-common-substring1452": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "longest-increasing-subsequence-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "longest-sub-array-with-sum-k0809": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "m-coloring-problem-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "matrix-chain-multiplication0303": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "max-sum-without-adjacents2430": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "maximum-sum-combination": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "median-in-a-row-wise-sorted-matrix1527": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "merge-k-sorted-arrays": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "merge-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimal-cost": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-cost-of-ropes-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-element-in-bst": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-multiplications-to-reach-end": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-number-of-jumps-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-platforms-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "minimum-spanning-tree": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "n-meetings-in-one-room-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "number-of-nges-to-the-right": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "number-of-occurrence2259": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "number-of-provinces": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "odd-or-even3618": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "operations-on-binary-min-heap": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "page-faults-in-lru5603": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "partitions-with-given-difference": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "pass-by-reference-and-value": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "perfect-sum-problem5633": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "postfix-to-infix-conversion": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "postfix-to-prefix-conversion": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "postorder-traversal-iterative": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "prefix-to-infix-conversion": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "prefix-to-postfix-conversion": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "preorder-traversal": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "prime-factorization-using-sieve": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "prime-factors5052": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "print-1-to-n-without-using-loops-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "print-adjacency-list-1587115620": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "print-all-lcs-sequences3413": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "print-gfg-n-times": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "print-n-to-1-without-loop": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "printing-longest-increasing-subsequence": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "quick-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "rat-in-a-maze-problem": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "remove-duplicates-from-a-sorted-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "replace-elements-by-its-rank-in-the-array": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "reverse-a-doubly-linked-list": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "reverse-a-stack": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "reverse-an-array": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "rod-cutting0840": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "root-to-leaf-paths": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "rotation4723": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "row-with-max-1s0023": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "search-in-linked-list-1664434326": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "search-pattern0205": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "second-largest3735": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "selection-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "set-the-rightmost-unset-bit4436": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "shortest-job-first": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "shortest-path-in-undirected-graph": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "shortest-path-in-undirected-graph-having-unit-distance": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "sort-a-stack": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "square-root": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "stickler-theif-1587115621": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "strongly-connected-components-kosarajus-algo": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "subset-sum-problem-1611555638": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "subset-sums2234": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "subsets-with-xor-value2023": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "sum-of-all-divisors-from-1-to-n4738": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "sum-of-first-n-terms5843": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "swap-two-numbers3844": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "top-k-frequent-elements-in-array": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "top-view-of-binary-tree": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "topological-sort": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links",
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "trie-delete": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "two-numbers-with-odd-occurrences5846": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "union-of-two-sorted-arrays-1587115621": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "unique-binary-tree-requirements": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ],
+  "who-will-win-1587115621": [
+   "Shivanshumishra23__Striver-A2Z-Sheet-with-GFG-links"
+  ]
+ }
+}

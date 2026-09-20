@@ -1,0 +1,1145 @@
+{
+ "20": {
+  "title": "Count Inversions",
+  "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+  "gfgTitle": "Count Inversions | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "21": {
+  "title": "Find the repeating and missing number",
+  "url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+  "gfgTitle": "Missing And Repeating | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "29": {
+  "title": "Kadane's Algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+  "gfgTitle": "Kadane's Algorithm | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "30": {
+  "title": "Leaders in an Array",
+  "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+  "gfgTitle": "Array Leaders | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/leaders-in-an-array/1 here)"
+ },
+ "38": {
+  "title": "Largest Element",
+  "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+  "gfgTitle": "Largest in Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "41": {
+  "title": "Linear Search",
+  "url": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+  "gfgTitle": "Array Search | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "43": {
+  "title": "Second Largest Element",
+  "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+  "gfgTitle": "Second Largest | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "44": {
+  "title": "Find missing number",
+  "url": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1",
+  "gfgTitle": "Missing in Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "45": {
+  "title": "Intersection of two sorted arrays",
+  "url": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1",
+  "gfgTitle": "Intersection of Two Sorted Arrays | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "48": {
+  "title": "Union of two sorted arrays",
+  "url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+  "gfgTitle": "Union of 2 Sorted Arrays | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "66": {
+  "title": "Find row with maximum 1's",
+  "url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+  "gfgTitle": "Row with Max 1s in Rowwise Sorted | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Row with Max 1s in Rowwise Sorted'; same task"
+ },
+ "67": {
+  "title": "Matrix Median",
+  "url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+  "gfgTitle": "Median in a Row-Wise Sorted Matrix | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "73": {
+  "title": "Aggressive Cows",
+  "url": "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
+  "gfgTitle": "Aggressive Cows | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "74": {
+  "title": "Book Allocation Problem",
+  "url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+  "gfgTitle": "Allocate Minimum Pages | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG renamed: 'Allocate Minimum Pages'; statements identical (book allocation)"
+ },
+ "76": {
+  "title": "Kth element of 2 sorted arrays",
+  "url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+  "gfgTitle": "K-th of Two Sorted Arrays | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "80": {
+  "title": "Lower Bound",
+  "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+  "gfgTitle": "Implement Lower Bound | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "82": {
+  "title": "Upper Bound",
+  "url": "https://www.geeksforgeeks.org/problems/implement-upper-bound/1",
+  "gfgTitle": "Implement Upper Bound | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "84": {
+  "title": "Find out how many times the array is rotated",
+  "url": "https://www.geeksforgeeks.org/problems/rotation4723/1",
+  "gfgTitle": "Find Kth Rotation | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Find Kth Rotation'; statement identical (right-rotated k times, find k)"
+ },
+ "86": {
+  "title": "Floor and Ceil in Sorted Array",
+  "url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
+  "gfgTitle": "Floor and Ceil in Unsorted | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Floor and Ceil in Unsorted'; same output (floor,ceil), GFG input is unsorted"
+ },
+ "91": {
+  "title": "Find Nth root of a number",
+  "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
+  "gfgTitle": "Nth Root of M | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "92": {
+  "title": "Find square root of a number",
+  "url": "https://www.geeksforgeeks.org/problems/square-root/1",
+  "gfgTitle": "Square Root | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "115": {
+  "title": "Bottom view of BT",
+  "url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+  "gfgTitle": "Bottom View of Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "120": {
+  "title": "Minimum time taken to burn the BT from a given Node",
+  "url": "https://www.geeksforgeeks.org/problems/burning-tree/1",
+  "gfgTitle": "Burning Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Burning Tree'; same min-time-to-burn-from-node task"
+ },
+ "122": {
+  "title": "Print root to leaf path in BT",
+  "url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
+  "gfgTitle": "Root to Leaf Paths | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Root to Leaf Paths'; same all-root-to-leaf-paths task"
+ },
+ "124": {
+  "title": "Top View of BT",
+  "url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+  "gfgTitle": "Top View of Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "144": {
+  "title": "Single Number - II",
+  "url": "https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1",
+  "gfgTitle": "Unique Number III | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "Striver II = others thrice; GFG numbers it 'Unique Number III'"
+ },
+ "145": {
+  "title": "Single Number - III",
+  "url": "https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+  "gfgTitle": "Unique Number II | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "Striver III = two numbers once; GFG numbers it 'Unique Number II'"
+ },
+ "146": {
+  "title": "XOR of numbers in a given range",
+  "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+  "gfgTitle": "XOR of a Number Range | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "185": {
+  "title": "Children Sum Property in Binary Tree",
+  "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+  "gfgTitle": "Children Sum in a Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "288": {
+  "title": "Frog Jump",
+  "url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+  "gfgTitle": "Frog Jump | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "292": {
+  "title": "Ninja's training",
+  "url": "https://www.geeksforgeeks.org/problems/geeks-training/1",
+  "gfgTitle": "Geek's Training | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "296": {
+  "title": "Cherry pickup II",
+  "url": "https://www.geeksforgeeks.org/problems/chocolate-pickup-ii/1",
+  "gfgTitle": "Chocolate Pickup II | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "308": {
+  "title": "Longest common subsequence",
+  "url": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1",
+  "gfgTitle": "Longest Common Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/longest-common-subsequence/1 here)"
+ },
+ "309": {
+  "title": "Longest common substring",
+  "url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
+  "gfgTitle": "Longest Common Substring | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/longest-common-substring/1 here)"
+ },
+ "315": {
+  "title": "0 and 1 Knapsack",
+  "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+  "gfgTitle": "0 - 1 Knapsack Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "317": {
+  "title": "Count partitions with given difference",
+  "url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
+  "gfgTitle": "Partitions with Given Difference | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "318": {
+  "title": "Count subsets with sum K",
+  "url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
+  "gfgTitle": "Count Subsets with Sum | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "322": {
+  "title": "Rod cutting problem",
+  "url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
+  "gfgTitle": "Rod Cutting | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/rod-cutting/1 here)"
+ },
+ "323": {
+  "title": "Subset sum equals to target",
+  "url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+  "gfgTitle": "Subset Sum Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Subset Sum Problem'; identical statement"
+ },
+ "325": {
+  "title": "Unbounded knapsack",
+  "url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+  "gfgTitle": "Knapsack with Duplicate Items | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "327": {
+  "title": "Matrix chain multiplication",
+  "url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+  "gfgTitle": "Matrix Chain Multiplication | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/matrix-chain-multiplication/1 here)"
+ },
+ "340": {
+  "title": "Check if the Array is Sorted I",
+  "url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
+  "gfgTitle": "Check Sorted Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Check Sorted Array'; Striver ordinal I"
+ },
+ "342": {
+  "title": "Reverse an array",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+  "gfgTitle": "Reverse Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Reverse Array'; same in-place reversal"
+ },
+ "343": {
+  "title": "Sum of Array Elements",
+  "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
+  "gfgTitle": "Sum of Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Sum of Array'; same sum task"
+ },
+ "347": {
+  "title": "Convert Array to Doubly Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
+  "gfgTitle": "Doubly Linked List from an Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "349": {
+  "title": "Delete Kth Element of Doubly Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
+  "gfgTitle": "Delete in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "354": {
+  "title": "Deletion of the tail of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1",
+  "gfgTitle": "Deletion at the End of a Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "357": {
+  "title": "Insertion at the Kth position of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1",
+  "gfgTitle": "Insert in a Singly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "358": {
+  "title": "Insertion at the tail of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
+  "gfgTitle": "Linked List End Insertion | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "360": {
+  "title": "Insert node before (kth node) in Doubly Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "gfgTitle": "Insertion in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG page inserts at position p, i.e. before the p-th node (same op as Striver's before-kth-node)"
+ },
+ "364": {
+  "title": "Check for Perfect Number",
+  "url": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1",
+  "gfgTitle": "Perfect Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Perfect Numbers'; same check-if-perfect task | canonical URL (GFG 301s /problems/perfect-numbers/1 here)"
+ },
+ "365": {
+  "title": "Check for Prime Number",
+  "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+  "gfgTitle": "Prime Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "367": {
+  "title": "Count all Digits of a Number",
+  "url": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
+  "gfgTitle": "Count Digits in Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "370": {
+  "title": "Divisors of a Number",
+  "url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
+  "gfgTitle": "All Divisors of a Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "371": {
+  "title": "Factorial of a given number",
+  "url": "https://www.geeksforgeeks.org/problems/factorial5739/1",
+  "gfgTitle": "Factorial | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "372": {
+  "title": "GCD of Two Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+  "gfgTitle": "GCD of Two | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/gcd-of-two-numbers/1 here)"
+ },
+ "373": {
+  "title": "LCM of two numbers",
+  "url": "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1",
+  "gfgTitle": "LCM of Two Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/lcm/1 here)"
+ },
+ "377": {
+  "title": "Check if a Number is Prime or Not",
+  "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+  "gfgTitle": "Prime Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Prime Number' - identical check-primality statement"
+ },
+ "380": {
+  "title": "Factorial of a Given Number",
+  "url": "https://www.geeksforgeeks.org/problems/factorial5739/1",
+  "gfgTitle": "Factorial | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "382": {
+  "title": "Reverse an array 2",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+  "gfgTitle": "Reverse Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Reverse Array'; same as Striver 342 (recursion form)"
+ },
+ "383": {
+  "title": "Reverse a String I",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1",
+  "gfgTitle": "Reverse a String | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Reverse a String'; same reversal task"
+ },
+ "384": {
+  "title": "Sum of Array Elements II",
+  "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
+  "gfgTitle": "Sum of Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Sum of Array'; same as Striver 343 (recursion form)"
+ },
+ "385": {
+  "title": "Sum of Digits in a Given Number",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
+  "gfgTitle": "Sum Of Digits | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "386": {
+  "title": "Sum of First N Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1",
+  "gfgTitle": "Recursively Sum n Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "387": {
+  "title": "Implement Queue using Arrays",
+  "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+  "gfgTitle": "Queue Using Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "388": {
+  "title": "Implement queue using Linkedlist",
+  "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
+  "gfgTitle": "Queue using Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "390": {
+  "title": "Implement Stack using Arrays",
+  "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+  "gfgTitle": "Implement Stack using Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "391": {
+  "title": "Implement stack using Linkedlist",
+  "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
+  "gfgTitle": "Stack using Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "396": {
+  "title": "Palindrome Check",
+  "url": "https://www.geeksforgeeks.org/problems/check-palindrome--141628/1",
+  "gfgTitle": "Check Palindrome | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "397": {
+  "title": "Reverse a String II",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1",
+  "gfgTitle": "Reverse a String | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Reverse a String'; Striver II is the in-place form, GFG page is in-place"
+ },
+ "452": {
+  "title": "Find Pairs with Given Sum in Doubly Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
+  "gfgTitle": "Pair Sum in Sorted Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "489": {
+  "title": "Fractional Knapsack",
+  "url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+  "gfgTitle": "Fractional Knapsack | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/fractional-knapsack/1 here)"
+ },
+ "496": {
+  "title": "Articulation point in graph",
+  "url": "https://www.geeksforgeeks.org/problems/articulation-point2616/1",
+  "gfgTitle": "Articulation Point | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "502": {
+  "title": "Topological sort or Kahn's algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+  "gfgTitle": "Topological Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Topological Sort'; same DAG topological order task"
+ },
+ "507": {
+  "title": "Shortest path in DAG",
+  "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1",
+  "gfgTitle": "Shortest Path in Directed Acyclic Graph | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Shortest Path in Directed Acyclic Graph'; same task"
+ },
+ "508": {
+  "title": "Shortest path in undirected graph with unit weights",
+  "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
+  "gfgTitle": "Shortest Path in Unweighted Graph | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "516": {
+  "title": "Disjoint Set",
+  "url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
+  "gfgTitle": "Disjoint set (Union-Find) | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "517": {
+  "title": "Find the MST weight",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+  "gfgTitle": "Minimum Spanning Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Minimum Spanning Tree'; statement verbatim (return MST weight sum)"
+ },
+ "518": {
+  "title": "Bellman ford algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+  "gfgTitle": "Bellman Ford | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "520": {
+  "title": "Dijkstra's algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+  "gfgTitle": "Dijkstra Algorithm | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "522": {
+  "title": "Floyd warshall algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+  "gfgTitle": "Floyd Warshall | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "523": {
+  "title": "Minimum multiplications to reach end",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
+  "gfgTitle": "Minimum Multiplications to reach End | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "528": {
+  "title": "Connected Components",
+  "url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
+  "gfgTitle": "Number of Connected Components | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "532": {
+  "title": "Number of distinct islands",
+  "url": "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
+  "gfgTitle": "Number of Distinct Islands | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "547": {
+  "title": "Job sequencing Problem",
+  "url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+  "gfgTitle": "Job Sequencing Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/job-sequencing-problem/1 here)"
+ },
+ "548": {
+  "title": "Minimum number of platforms required for a railway",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+  "gfgTitle": "Minimum Platforms | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Minimum Platforms'; identical train-platform statement"
+ },
+ "549": {
+  "title": "N meetings in one room",
+  "url": "https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1",
+  "gfgTitle": "Maximum Meetings in One Room | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "551": {
+  "title": "Shortest Job First",
+  "url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
+  "gfgTitle": "Shortest Job first | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "562": {
+  "title": "Count subarrays with given xor K",
+  "url": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1",
+  "gfgTitle": "Count Subarrays with given XOR | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "564": {
+  "title": "Longest subarray with sum K",
+  "url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
+  "gfgTitle": "Longest Subarray with Sum K | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "570": {
+  "title": "Build heap from a given Array",
+  "url": "https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1",
+  "gfgTitle": "Building Heap from Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "573": {
+  "title": "Heapify Algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1",
+  "gfgTitle": "Building Heap from Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Building Heap from Array'; heapify/build-heap task"
+ },
+ "574": {
+  "title": "Heap Sort",
+  "url": "https://www.geeksforgeeks.org/problems/heap-sort/1",
+  "gfgTitle": "Heap Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "575": {
+  "title": "Implement Max Heap",
+  "url": "https://www.geeksforgeeks.org/problems/max-heap-implementation/1",
+  "gfgTitle": "Max Heap implementation | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "576": {
+  "title": "Implement Min Heap",
+  "url": "https://www.geeksforgeeks.org/problems/min-heap-implementation/1",
+  "gfgTitle": "Min Heap Implementation | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "578": {
+  "title": "K-th Largest element in an array",
+  "url": "https://www.geeksforgeeks.org/problems/kth-largest-element5034/1",
+  "gfgTitle": "Kth Largest | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Kth Largest'; identical kth-largest statement"
+ },
+ "605": {
+  "title": "Largest Subarray with Sum 0",
+  "url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+  "gfgTitle": "Largest subarray with 0 sum | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "609": {
+  "title": "Delete all occurrences of a key in DLL",
+  "url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+  "gfgTitle": "Delete All Occurrences in DLL | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "610": {
+  "title": "Remove duplicates from sorted DLL",
+  "url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+  "gfgTitle": "Remove duplicates from a sorted DLL | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "612": {
+  "title": "Flattening of LL",
+  "url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+  "gfgTitle": "Flattening a Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "617": {
+  "title": "Add one to a number represented by LL",
+  "url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+  "gfgTitle": "Add 1 to a Linked List Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "623": {
+  "title": "Length of loop in LL",
+  "url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+  "gfgTitle": "Cycle Length in Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "624": {
+  "title": "Traversal in Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/linkedlist-traversal/1",
+  "gfgTitle": "Linked List Traversal | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Basic",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "629": {
+  "title": "Sort a Linked List of 0's 1's and 2's",
+  "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+  "gfgTitle": "Sort a linked list of 0s, 1s and 2s | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Sort a linked list of 0s, 1s and 2s'; identical statement"
+ },
+ "633": {
+  "title": "Longest Bitonic Subsequence",
+  "url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+  "gfgTitle": "Longest Bitonic Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/longest-bitonic-subsequence/1 here)"
+ },
+ "636": {
+  "title": "Longest Increasing Subsequence",
+  "url": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
+  "gfgTitle": "Longest Increasing Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/longest-increasing-subsequence/1 here)"
+ },
+ "652": {
+  "title": "Prime factorisation of a Number",
+  "url": "https://www.geeksforgeeks.org/problems/prime-factorization/1",
+  "gfgTitle": "All Prime Factors in Sorted Order | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'All Prime Factors in Sorted Order'; same prime factorisation task"
+ },
+ "653": {
+  "title": "Print all primes till N",
+  "url": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1",
+  "gfgTitle": "Sieve of Eratosthenes | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Sieve of Eratosthenes'; returns all primes <= n, same as print-all-primes-till-N"
+ },
+ "805": {
+  "title": "Painter's Partition",
+  "url": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+  "gfgTitle": "The Painter's Partition Problem-II | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "812": {
+  "title": "Pascal's Triangle II",
+  "url": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1",
+  "gfgTitle": "Pascal Triangle | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Pascal Triangle' returns the nth row; identical to Striver II (example n=4 -> [1,3,3,1])"
+ },
+ "851": {
+  "title": "Print Longest Increasing Subsequence",
+  "url": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1",
+  "gfgTitle": "Get Longest Increasing Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "867": {
+  "title": "Subsets I",
+  "url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
+  "gfgTitle": "Subset Sums | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Subset Sums'; statement + example [2,3]->[0,2,3,5] identical to Striver 'Subsets I' | canonical URL (GFG 301s /problems/subset-sums/1 here)"
+ },
+ "869": {
+  "title": "M Coloring Problem",
+  "url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+  "gfgTitle": "M-Coloring Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "canonical URL (GFG 301s /problems/m-coloring-problem/1 here)"
+ },
+ "872": {
+  "title": "Rat in a Maze",
+  "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+  "gfgTitle": "Rat in a Maze | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "878": {
+  "title": "Power Set",
+  "url": "https://www.geeksforgeeks.org/problems/subsets-1613027340/1",
+  "gfgTitle": "Subsets | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Subsets' (all subsets of a distinct array); identical to Striver 'Power Set'"
+ },
+ "879": {
+  "title": "Check if there exists a subsequence with sum K",
+  "url": "https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1",
+  "gfgTitle": "Subsequence with Sum K | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "880": {
+  "title": "Count all subsequences with sum K",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-subset-with-sum-equal-to-k/1",
+  "gfgTitle": "Count Subset wtih Sum - Limited Size | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": "GFG 'Count Subset with Sum'; same count-subsets-with-sum-k task"
+ },
+ "943": {
+  "title": "Bubble Sort",
+  "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
+  "gfgTitle": "Bubble Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "944": {
+  "title": "Insertion Sorting",
+  "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+  "gfgTitle": "Insertion Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "945": {
+  "title": "Merge Sorting",
+  "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+  "gfgTitle": "Merge Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "946": {
+  "title": "Quick Sorting",
+  "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+  "gfgTitle": "Quick Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": ""
+ },
+ "947": {
+  "title": "Selection Sort",
+  "url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
+  "gfgTitle": "Selection Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "961": {
+  "title": "LRU Cache",
+  "url": "https://www.geeksforgeeks.org/problems/lru-cache/1",
+  "gfgTitle": "LRU Cache | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "980": {
+  "title": "Shortest Palindrome",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1",
+  "gfgTitle": "Min Chars to Add for Palindrome | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Min Chars to Add for Palindrome'; same shortest-palindrome task"
+ },
+ "1023": {
+  "title": "Longest Word with All Prefixes",
+  "url": "https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1",
+  "gfgTitle": "Longest Valid Word with All Prefixes | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "verified",
+  "note": ""
+ },
+ "1026": {
+  "title": "Number of distinct substrings in a string",
+  "url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
+  "gfgTitle": "Count Distinct Substrings | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "GFG 'Count Distinct Substrings' counts NON-EMPTY only; Striver includes the empty substring"
+ },
+ "1027": {
+  "title": "Trie Implementation and Advanced Operations",
+  "url": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
+  "gfgTitle": "Implement Trie | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "httpStatus": 200,
+  "confidence": "weak",
+  "note": "closest GFG 'Implement Trie' (insert/search/isPrefix) - Striver adds count/erase ops"
+ }
+}

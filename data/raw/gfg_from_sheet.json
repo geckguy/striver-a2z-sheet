@@ -1,0 +1,72 @@
+{
+ "289": {
+  "url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+  "gfgTitle": "Frog Jump | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "alignment": "anchor-window(span=6,rank=1)",
+  "sheetTitle": "Frog jump with K distances"
+ },
+ "325": {
+  "url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+  "gfgTitle": "Knapsack with Duplicate Items | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "alignment": "anchor-window(span=19,rank=0)",
+  "sheetTitle": "Unbounded knapsack"
+ },
+ "349": {
+  "url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
+  "gfgTitle": "Delete in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "alignment": "anchor-window(span=21,rank=0)",
+  "sheetTitle": "Delete Kth Element of Doubly Linked List"
+ },
+ "355": {
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "gfgTitle": "Insertion in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "alignment": "anchor-window(span=21,rank=0)",
+  "sheetTitle": "Insert before given node in Doubly Linked List"
+ },
+ "360": {
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "gfgTitle": "Insertion in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "alignment": "anchor-window(span=21,rank=0)",
+  "sheetTitle": "Insert node before (kth node) in Doubly Linked List"
+ },
+ "361": {
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "gfgTitle": "Insertion in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "alignment": "anchor-window(span=21,rank=0)",
+  "sheetTitle": "Insert node before head in Doubly Linked List"
+ },
+ "362": {
+  "url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+  "gfgTitle": "Insertion in a Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "alignment": "anchor-window(span=21,rank=0)",
+  "sheetTitle": "Insert node before tail in Doubly Linked List"
+ },
+ "526": {
+  "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
+  "gfgTitle": "Shortest Path in Unweighted Graph | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "alignment": "anchor-window(span=15,rank=0)",
+  "sheetTitle": "Print Shortest Path"
+ },
+ "623": {
+  "url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
+  "gfgTitle": "Cycle Length in Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "alignment": "anchor-window(span=14,rank=0)",
+  "sheetTitle": "Length of loop in LL"
+ },
+ "851": {
+  "url": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1",
+  "gfgTitle": "Get Longest Increasing Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "alignment": "anchor-window(span=3,rank=0)",
+  "sheetTitle": "Print Longest Increasing Subsequence"
+ }
+}

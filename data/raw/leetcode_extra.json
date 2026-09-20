@@ -1,0 +1,53 @@
+{
+ "extra": {
+  "871": {
+   "url": "https://leetcode.com/problems/palindrome-partitioning/",
+   "title": "Palindrome Partitioning",
+   "difficulty": "Medium",
+   "isPaidOnly": false,
+   "match": "exact-title"
+  },
+  "961": {
+   "url": "https://leetcode.com/problems/lru-cache/",
+   "title": "LRU Cache",
+   "difficulty": "Medium",
+   "isPaidOnly": false,
+   "match": "exact-title"
+  },
+  "636": {
+   "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+   "title": "Longest Increasing Subsequence",
+   "difficulty": "Medium",
+   "isPaidOnly": false,
+   "match": "exact-title"
+  },
+  "308": {
+   "url": "https://leetcode.com/problems/longest-common-subsequence/",
+   "title": "Longest Common Subsequence",
+   "difficulty": "Medium",
+   "isPaidOnly": false,
+   "match": "exact-title"
+  },
+  "980": {
+   "url": "https://leetcode.com/problems/shortest-palindrome/",
+   "title": "Shortest Palindrome",
+   "difficulty": "Hard",
+   "isPaidOnly": false,
+   "match": "exact-title"
+  }
+ },
+ "canonical": {
+  "coin-change-2": {
+   "url": "https://leetcode.com/problems/coin-change-ii/",
+   "title": "Coin Change II",
+   "difficulty": "Medium",
+   "isPaidOnly": false
+  },
+  "implement-strstr": {
+   "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+   "title": "Find the Index of the First Occurrence in a String",
+   "difficulty": "Easy",
+   "isPaidOnly": false
+  }
+ }
+}

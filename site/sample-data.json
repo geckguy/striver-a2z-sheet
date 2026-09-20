@@ -1,0 +1,669 @@
+{
+ "meta": {
+  "title": "Striver's A2Z DSA Sheet",
+  "source": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+  "generated": "2026-09-20",
+  "problemCount": 26,
+  "stepCount": 4,
+  "steps": [
+   {
+    "n": 1,
+    "title": "Beginner Problems",
+    "count": 8
+   },
+   {
+    "n": 2,
+    "title": "Sorting",
+    "count": 5
+   },
+   {
+    "n": 3,
+    "title": "Arrays",
+    "count": 7
+   },
+   {
+    "n": 5,
+    "title": "Binary Search",
+    "count": 6
+   }
+  ],
+  "note": "Sample subset of the real sheet: 26 problems copied verbatim from data.json, used only when data.json cannot be loaded."
+ },
+ "problems": [
+  {
+   "id": "a2z-0001",
+   "order": 1,
+   "title": "Count all Digits of a Number",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Maths",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/count-all-digits-of-a-number?category=basic-maths&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-digits-in-a-number",
+   "video": "https://youtu.be/1xNbjMdbjug",
+   "premium": false,
+   "duration": "8 min",
+   "slug": "count-all-digits-of-a-number",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0002",
+   "order": 2,
+   "title": "Reverse a number",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Maths",
+   "tier": "basic",
+   "difficulty": "Medium",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/reverse-integer/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/reverse-a-number?category=basic-maths&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-digits-of-a-number",
+   "video": "https://youtu.be/1xNbjMdbjug?t=930",
+   "premium": false,
+   "duration": "7 min",
+   "slug": "reverse-a-number",
+   "lcSlug": "reverse-integer"
+  },
+  {
+   "id": "a2z-0003",
+   "order": 3,
+   "title": "Palindrome Number",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Maths",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/palindrome-number/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/palindrome-number?category=basic-maths&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-a-palindrome",
+   "video": "https://youtu.be/1xNbjMdbjug?t=1230",
+   "premium": false,
+   "duration": "4 min",
+   "slug": "palindrome-number",
+   "lcSlug": "palindrome-number"
+  },
+  {
+   "id": "a2z-0004",
+   "order": 4,
+   "title": "Check if the Number is Armstrong",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Maths",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/armstrong-number/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/check-if-the-number-if-armstrong?category=basic-maths&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/armstrong-number",
+   "video": "https://youtu.be/1xNbjMdbjug?t=1418",
+   "premium": true,
+   "duration": "7 min",
+   "slug": "check-if-the-number-if-armstrong",
+   "lcSlug": "armstrong-number"
+  },
+  {
+   "id": "a2z-0005",
+   "order": 5,
+   "title": "GCD of Two Numbers",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Maths",
+   "tier": "basic",
+   "difficulty": "",
+   "difficultySource": "",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/gcd-of-two-numbers?category=basic-maths&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/gcd-euclidean-algorithm",
+   "video": "https://youtu.be/1xNbjMdbjug?t=2684",
+   "premium": false,
+   "duration": "13 min",
+   "slug": "gcd-of-two-numbers",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0006",
+   "order": 6,
+   "title": "Reverse an array",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Arrays",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/reverse-an-array?category=basic-arrays&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": null,
+   "video": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4",
+   "premium": false,
+   "duration": "14 min",
+   "slug": "reverse-an-array",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0007",
+   "order": 7,
+   "title": "Palindrome Check",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Strings",
+   "tier": "core",
+   "difficulty": "",
+   "difficultySource": "",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/check-palindrome--141628/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/palindrome-check?category=basic-strings&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": null,
+   "video": null,
+   "premium": false,
+   "duration": "7 min",
+   "slug": "palindrome-check",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0008",
+   "order": 8,
+   "title": "Rotate String",
+   "step": 1,
+   "stepTitle": "Beginner Problems",
+   "topic": "Basic Strings",
+   "tier": "core",
+   "difficulty": "Easy",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/rotate-string/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/rotate-string?category=basic-strings&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": null,
+   "video": null,
+   "premium": false,
+   "duration": "13 min",
+   "slug": "rotate-string",
+   "lcSlug": "rotate-string"
+  },
+  {
+   "id": "a2z-0009",
+   "order": 9,
+   "title": "Selection Sort",
+   "step": 2,
+   "stepTitle": "Sorting",
+   "topic": "Algorithms",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/selection-sort?category=algorithms&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/selection-sort-algorithm",
+   "video": "https://youtu.be/HGk_ypEuS24?t=167",
+   "premium": false,
+   "duration": "15 min",
+   "slug": "selection-sort",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0010",
+   "order": 10,
+   "title": "Bubble Sort",
+   "step": 2,
+   "stepTitle": "Sorting",
+   "topic": "Algorithms",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/bubble-sort?category=algorithms&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bubble-sort-algorithm",
+   "video": "https://youtu.be/HGk_ypEuS24?t=1061",
+   "premium": false,
+   "duration": "14 min",
+   "slug": "bubble-sort",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0011",
+   "order": 11,
+   "title": "Insertion Sorting",
+   "step": 2,
+   "stepTitle": "Sorting",
+   "topic": "Algorithms",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/insertion-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insertion-sort-algorithm",
+   "video": "https://youtu.be/HGk_ypEuS24?t=1900",
+   "premium": false,
+   "duration": "11 min",
+   "slug": "insertion-sorting",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0012",
+   "order": 12,
+   "title": "Merge Sorting",
+   "step": 2,
+   "stepTitle": "Sorting",
+   "topic": "Algorithms",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/merge-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-sort-algorithm",
+   "video": "https://youtu.be/ogjf7ORKfd8",
+   "premium": false,
+   "duration": "47 min",
+   "slug": "merge-sorting",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0013",
+   "order": 13,
+   "title": "Quick Sorting",
+   "step": 2,
+   "stepTitle": "Sorting",
+   "topic": "Algorithms",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/quick-sorting?category=algorithms&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/quick-sort-algorithm",
+   "video": "https://youtu.be/WIrA4YexLRQ",
+   "premium": false,
+   "duration": "33 min",
+   "slug": "quick-sorting",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0014",
+   "order": 14,
+   "title": "Largest Element",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "Fundamentals",
+   "tier": "basic",
+   "difficulty": "",
+   "difficultySource": "",
+   "platform": "takeuforward",
+   "url": "https://takeuforward.org/practice/dsa/largest-element?category=fundamentals&source=strivers-a2z-dsa-sheet",
+   "altUrls": [],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-element-in-an-array",
+   "video": "https://youtu.be/37E9ckMDdTk?t=526",
+   "premium": false,
+   "duration": "5 min",
+   "slug": "largest-element",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0015",
+   "order": 15,
+   "title": "Move Zeros to End",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "Logic Building",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/move-zeroes/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/move-zeros-to-end?category=logic-building&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/move-zeros-to-the-end-of-an-array",
+   "video": "https://youtu.be/wvcQg43_V8U?t=1633",
+   "premium": false,
+   "duration": "13 min",
+   "slug": "move-zeros-to-end",
+   "lcSlug": "move-zeroes"
+  },
+  {
+   "id": "a2z-0016",
+   "order": 16,
+   "title": "Union of two sorted arrays",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "Logic Building",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/union-of-two-sorted-arrays?category=logic-building&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/union-of-two-sorted-arrays",
+   "video": "https://youtu.be/wvcQg43_V8U?t=2584",
+   "premium": false,
+   "duration": "16 min",
+   "slug": "union-of-two-sorted-arrays",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0017",
+   "order": 17,
+   "title": "Leaders in an Array",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "FAQs(Medium)",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/leaders-in-an-array?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/leaders-in-an-array",
+   "video": "https://youtu.be/cHrH9CQ8pmY",
+   "premium": false,
+   "duration": "11 min",
+   "slug": "leaders-in-an-array",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0018",
+   "order": 18,
+   "title": "3 Sum",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "FAQs(Medium)",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/3sum/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/3-sum?category=faqs-medium&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/3sum",
+   "video": "https://youtu.be/DhFh8Kw7ymk",
+   "premium": false,
+   "duration": "37 min",
+   "slug": "3-sum",
+   "lcSlug": "3sum"
+  },
+  {
+   "id": "a2z-0019",
+   "order": 19,
+   "title": "Count Inversions",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "FAQs(Hard)",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/count-inversions?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": null,
+   "video": "https://youtu.be/AseUmwVNaoY",
+   "premium": false,
+   "duration": "23 min",
+   "slug": "count-inversions",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0020",
+   "order": 20,
+   "title": "Reverse Pairs",
+   "step": 3,
+   "stepTitle": "Arrays",
+   "topic": "FAQs(Hard)",
+   "tier": "pro",
+   "difficulty": "Hard",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/reverse-pairs/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/reverse-pairs?category=faqs-hard&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-reverse-pairs",
+   "video": "https://youtu.be/0e4bZaP3MDI",
+   "premium": false,
+   "duration": "31 min",
+   "slug": "reverse-pairs",
+   "lcSlug": "reverse-pairs"
+  },
+  {
+   "id": "a2z-0021",
+   "order": 21,
+   "title": "Search X in sorted array",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "Fundamentals",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/binary-search/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/search-x-in-sorted-array?category=fundamentals&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-algorithm",
+   "video": "https://youtu.be/MHf6awe89xw",
+   "premium": false,
+   "duration": "33 min",
+   "slug": "search-x-in-sorted-array",
+   "lcSlug": "binary-search"
+  },
+  {
+   "id": "a2z-0022",
+   "order": 22,
+   "title": "Lower Bound",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "Fundamentals",
+   "tier": "basic",
+   "difficulty": "Easy",
+   "difficultySource": "gfg",
+   "platform": "gfg",
+   "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/lower-bound-?category=fundamentals&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lower-bound-in-sorted-array",
+   "video": "https://youtu.be/6zhGS79oQ4k",
+   "premium": false,
+   "duration": "16 min",
+   "slug": "lower-bound-",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0023",
+   "order": 23,
+   "title": "Find out how many times the array is rotated",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "Logic Building",
+   "tier": "basic",
+   "difficulty": "",
+   "difficultySource": "",
+   "platform": "takeuforward",
+   "url": "https://takeuforward.org/practice/dsa/find-out-how-many-times-the-array-is-rotated?category=logic-building&source=strivers-a2z-dsa-sheet",
+   "altUrls": [],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotation-count-sorted-array",
+   "video": "https://youtu.be/jtSiWTPLwd0",
+   "premium": false,
+   "duration": "4 min",
+   "slug": "find-out-how-many-times-the-array-is-rotated",
+   "lcSlug": ""
+  },
+  {
+   "id": "a2z-0024",
+   "order": 24,
+   "title": "Koko eating bananas",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "On answers",
+   "tier": "core",
+   "difficulty": "Medium",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/koko-eating-bananas/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/koko-eating-bananas?category=on-answers&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/koko-eating-bananas",
+   "video": "https://youtu.be/qyfekrNni90",
+   "premium": false,
+   "duration": "20 min",
+   "slug": "koko-eating-bananas",
+   "lcSlug": "koko-eating-bananas"
+  },
+  {
+   "id": "a2z-0025",
+   "order": 25,
+   "title": "Median of 2 sorted arrays",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "FAQs",
+   "tier": "pro",
+   "difficulty": "Hard",
+   "difficultySource": "leetcode",
+   "platform": "leetcode",
+   "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+   "altUrls": [
+    {
+     "platform": "takeuforward",
+     "url": "https://takeuforward.org/practice/dsa/median-of-2-sorted-arrays?category=faqs&source=strivers-a2z-dsa-sheet"
+    }
+   ],
+   "article": null,
+   "video": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65",
+   "premium": false,
+   "duration": "50 min",
+   "slug": "median-of-2-sorted-arrays",
+   "lcSlug": "median-of-two-sorted-arrays"
+  },
+  {
+   "id": "a2z-0026",
+   "order": 26,
+   "title": "Find row with maximum 1's",
+   "step": 5,
+   "stepTitle": "Binary Search",
+   "topic": "2D Arrays",
+   "tier": "basic",
+   "difficulty": "",
+   "difficultySource": "",
+   "platform": "takeuforward",
+   "url": "https://takeuforward.org/practice/dsa/find-row-with-maximum-1's?category=2d-arrays&source=strivers-a2z-dsa-sheet",
+   "altUrls": [],
+   "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-row-with-maximum-1s-in-a-sorted-binary-matrix",
+   "video": "https://youtu.be/SCz-1TtYxDI",
+   "premium": false,
+   "duration": "10 min",
+   "slug": "find-row-with-maximum-1's",
+   "lcSlug": ""
+  }
+ ]
+}

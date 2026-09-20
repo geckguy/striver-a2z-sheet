@@ -1,0 +1,618 @@
+{
+ "367": {
+  "url": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
+  "gfgSlug": "count-total-digits-in-a-number",
+  "gfgTitle": "Count Digits in Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.75
+ },
+ "364": {
+  "url": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1",
+  "gfgSlug": "perfect-numbers3207",
+  "gfgTitle": "Perfect Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "365": {
+  "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+  "gfgSlug": "prime-number2314",
+  "gfgTitle": "Prime Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "372": {
+  "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+  "gfgSlug": "gcd-of-two-numbers3459",
+  "gfgTitle": "GCD of Two | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 0.67
+ },
+ "373": {
+  "url": "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1",
+  "gfgSlug": "lcm-of-two-numbers",
+  "gfgTitle": "LCM of Two Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "370": {
+  "url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
+  "gfgSlug": "all-divisors-of-a-number",
+  "gfgTitle": "All Divisors of a Number | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "343": {
+  "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
+  "gfgSlug": "sum-all-array-elements",
+  "gfgTitle": "Sum of Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 0.67
+ },
+ "340": {
+  "url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
+  "gfgSlug": "check-if-an-array-is-sorted0701",
+  "gfgTitle": "Check Sorted Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "342": {
+  "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+  "gfgSlug": "reverse-an-array",
+  "gfgTitle": "Reverse Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "397": {
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1",
+  "gfgSlug": "reverse-a-string",
+  "gfgTitle": "Reverse a String | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 1.0
+ },
+ "396": {
+  "url": "https://www.geeksforgeeks.org/problems/check-palindrome--141628/1",
+  "gfgSlug": "check-palindrome--141628",
+  "gfgTitle": "Check Palindrome | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 1.0
+ },
+ "386": {
+  "url": "https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1",
+  "gfgSlug": "recursively-sum-n-numbers",
+  "gfgTitle": "Recursively Sum n Numbers | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "385": {
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
+  "gfgSlug": "sum-of-digits1742",
+  "gfgTitle": "Sum Of Digits | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.5
+ },
+ "947": {
+  "url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
+  "gfgSlug": "selection-sort",
+  "gfgTitle": "Selection Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "943": {
+  "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
+  "gfgSlug": "bubble-sort",
+  "gfgTitle": "Bubble Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "944": {
+  "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
+  "gfgSlug": "insertion-sort",
+  "gfgTitle": "Insertion Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "945": {
+  "url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
+  "gfgSlug": "merge-sort",
+  "gfgTitle": "Merge Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "946": {
+  "url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
+  "gfgSlug": "quick-sort",
+  "gfgTitle": "Quick Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "41": {
+  "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
+  "gfgSlug": "who-will-win-1587115621",
+  "gfgTitle": "Binary Search | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 0.5
+ },
+ "43": {
+  "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+  "gfgSlug": "second-largest3735",
+  "gfgTitle": "Second Largest | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "48": {
+  "url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
+  "gfgSlug": "union-of-two-sorted-arrays-1587115621",
+  "gfgTitle": "Union of 2 Sorted Arrays | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.75
+ },
+ "45": {
+  "url": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1",
+  "gfgSlug": "intersection-of-two-sorted-array-1587115620",
+  "gfgTitle": "Intersection of Two Sorted Arrays | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "30": {
+  "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+  "gfgSlug": "leaders-in-an-array-1587115620",
+  "gfgTitle": "Array Leaders | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "812": {
+  "url": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1",
+  "gfgSlug": "pascal-triangle0652",
+  "gfgTitle": "Pascal Triangle | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "29": {
+  "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+  "gfgSlug": "kadanes-algorithm-1587115620",
+  "gfgTitle": "Kadane&#x27;s Algorithm | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "21": {
+  "url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+  "gfgSlug": "find-missing-and-repeating2512",
+  "gfgTitle": "Missing And Repeating | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.5
+ },
+ "20": {
+  "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+  "gfgSlug": "inversion-of-array-1587115620",
+  "gfgTitle": "Count Inversions | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "564": {
+  "url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
+  "gfgSlug": "longest-sub-array-with-sum-k0809",
+  "gfgTitle": "Longest Subarray with Sum K | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "605": {
+  "url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+  "gfgSlug": "largest-subarray-with-0-sum",
+  "gfgTitle": "Largest subarray with 0 sum | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "562": {
+  "url": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1",
+  "gfgSlug": "count-subarray-with-given-xor",
+  "gfgTitle": "Count Subarrays with given XOR | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "80": {
+  "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+  "gfgSlug": "implement-lower-bound",
+  "gfgTitle": "Implement Lower Bound | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "82": {
+  "url": "https://www.geeksforgeeks.org/problems/implement-upper-bound/1",
+  "gfgSlug": "implement-upper-bound",
+  "gfgTitle": "Implement Upper Bound | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "92": {
+  "url": "https://www.geeksforgeeks.org/problems/square-root/1",
+  "gfgSlug": "square-root",
+  "gfgTitle": "Square Root | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.5
+ },
+ "91": {
+  "url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
+  "gfgSlug": "find-nth-root-of-m5843",
+  "gfgTitle": "Nth Root of M | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.5
+ },
+ "805": {
+  "url": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+  "gfgSlug": "the-painters-partition-problem1535",
+  "gfgTitle": "The Painter&#x27;s Partition Problem-II | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "overlap": 1.0
+ },
+ "73": {
+  "url": "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
+  "gfgSlug": "aggressive-cows",
+  "gfgTitle": "Aggressive Cows | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "67": {
+  "url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+  "gfgSlug": "median-in-a-row-wise-sorted-matrix1527",
+  "gfgTitle": "Median in a Row-Wise Sorted Matrix | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "867": {
+  "url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
+  "gfgSlug": "subset-sums2234",
+  "gfgTitle": "Subset Sums | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "872": {
+  "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+  "gfgSlug": "rat-in-a-maze-problem",
+  "gfgTitle": "Rat in a Maze | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "869": {
+  "url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+  "gfgSlug": "m-coloring-problem-1587115620",
+  "gfgTitle": "M-Coloring Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "624": {
+  "url": "https://www.geeksforgeeks.org/problems/linkedlist-traversal/1",
+  "gfgSlug": "linkedlist-traversal",
+  "gfgTitle": "Linked List Traversal | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 1.0
+ },
+ "354": {
+  "url": "https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1",
+  "gfgSlug": "deletion-at-the-end-of-a-linked-list",
+  "gfgTitle": "Deletion at the End of a Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.75
+ },
+ "358": {
+  "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
+  "gfgSlug": "linked-list-insertion-1587115620",
+  "gfgTitle": "Linked List End Insertion | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 0.75
+ },
+ "347": {
+  "url": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
+  "gfgSlug": "create-a-doubly-linked-list-from-a-given-array",
+  "gfgTitle": "Doubly Linked List from an Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.8
+ },
+ "629": {
+  "url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+  "gfgSlug": "given-a-linked-list-of-0s-1s-and-2s-sort-it",
+  "gfgTitle": "Sort a linked list of 0s, 1s and 2s | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "612": {
+  "url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+  "gfgSlug": "flattening-a-linked-list",
+  "gfgTitle": "Flattening a Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "609": {
+  "url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+  "gfgSlug": "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list",
+  "gfgTitle": "Delete All Occurrences in DLL | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.8
+ },
+ "610": {
+  "url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+  "gfgSlug": "remove-duplicates-from-a-sorted-doubly-linked-list",
+  "gfgTitle": "Remove duplicates from a sorted DLL | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "452": {
+  "url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
+  "gfgSlug": "find-pairs-with-given-sum-in-doubly-linked-list",
+  "gfgTitle": "Pair Sum in Sorted Doubly Linked List | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.71
+ },
+ "146": {
+  "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+  "gfgSlug": "find-xor-of-numbers-from-l-to-r",
+  "gfgTitle": "XOR of a Number Range | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.75
+ },
+ "489": {
+  "url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+  "gfgSlug": "fractional-knapsack-1587115620",
+  "gfgTitle": "Fractional Knapsack | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 1.0
+ },
+ "551": {
+  "url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
+  "gfgSlug": "shortest-job-first",
+  "gfgTitle": "Shortest Job first | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "547": {
+  "url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+  "gfgSlug": "job-sequencing-problem-1587115620",
+  "gfgTitle": "Job Sequencing Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "549": {
+  "url": "https://www.geeksforgeeks.org/problems/maximum-meetings-in-one-room/1",
+  "gfgSlug": "maximum-meetings-in-one-room",
+  "gfgTitle": "Maximum Meetings in One Room | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "390": {
+  "url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+  "gfgSlug": "implement-stack-using-array",
+  "gfgTitle": "Implement Stack using Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 1.0
+ },
+ "387": {
+  "url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+  "gfgSlug": "implement-queue-using-array",
+  "gfgTitle": "Queue Using Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "",
+  "overlap": 0.67
+ },
+ "185": {
+  "url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+  "gfgSlug": "children-sum-parent",
+  "gfgTitle": "Children Sum in a Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.8
+ },
+ "124": {
+  "url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+  "gfgSlug": "top-view-of-binary-tree",
+  "gfgTitle": "Top View of Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "115": {
+  "url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+  "gfgSlug": "bottom-view-of-binary-tree",
+  "gfgTitle": "Bottom View of Binary Tree | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "122": {
+  "url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
+  "gfgSlug": "root-to-leaf-paths",
+  "gfgTitle": "Root to Leaf Paths | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.75
+ },
+ "570": {
+  "url": "https://www.geeksforgeeks.org/problems/heapify-the-vector--102013/1",
+  "gfgSlug": "heapify-the-vector--102013",
+  "gfgTitle": "Building Heap from Array | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.8
+ },
+ "576": {
+  "url": "https://www.geeksforgeeks.org/problems/min-heap-implementation/1",
+  "gfgSlug": "min-heap-implementation",
+  "gfgTitle": "Min Heap Implementation | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "575": {
+  "url": "https://www.geeksforgeeks.org/problems/max-heap-implementation/1",
+  "gfgSlug": "max-heap-implementation",
+  "gfgTitle": "Max Heap implementation | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Easy",
+  "overlap": 0.67
+ },
+ "574": {
+  "url": "https://www.geeksforgeeks.org/problems/heap-sort/1",
+  "gfgSlug": "heap-sort",
+  "gfgTitle": "Heap Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "528": {
+  "url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
+  "gfgSlug": "number-of-provinces",
+  "gfgTitle": "Number of Connected Components | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "532": {
+  "url": "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
+  "gfgSlug": "number-of-distinct-islands",
+  "gfgTitle": "Number of Distinct Islands | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "502": {
+  "url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+  "gfgSlug": "topological-sort",
+  "gfgTitle": "Topological Sort | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.5
+ },
+ "507": {
+  "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1",
+  "gfgSlug": "shortest-path-in-directed-acyclic-graph",
+  "gfgTitle": "Shortest Path in Directed Acyclic Graph | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.67
+ },
+ "520": {
+  "url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+  "gfgSlug": "implementing-dijkstra-set-1-adjacency-matrix",
+  "gfgTitle": "Dijkstra Algorithm | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "526": {
+  "url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
+  "gfgSlug": "shortest-path-in-undirected-graph-having-unit-distance",
+  "gfgTitle": "Shortest Path in Unweighted Graph | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.67
+ },
+ "523": {
+  "url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
+  "gfgSlug": "minimum-multiplications-to-reach-end",
+  "gfgTitle": "Minimum Multiplications to reach End | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "518": {
+  "url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
+  "gfgSlug": "distance-from-the-source-bellman-ford-algorithm",
+  "gfgTitle": "Bellman Ford | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.67
+ },
+ "522": {
+  "url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+  "gfgSlug": "implementing-floyd-warshall2042",
+  "gfgTitle": "Floyd Warshall | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.67
+ },
+ "516": {
+  "url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
+  "gfgSlug": "disjoint-set-union-find",
+  "gfgTitle": "Disjoint set (Union-Find) | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "496": {
+  "url": "https://www.geeksforgeeks.org/problems/articulation-point2616/1",
+  "gfgSlug": "articulation-point2616",
+  "gfgTitle": "Articulation Point | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "overlap": 0.67
+ },
+ "288": {
+  "url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
+  "gfgSlug": "geek-jump",
+  "gfgTitle": "Frog Jump | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "292": {
+  "url": "https://www.geeksforgeeks.org/problems/geeks-training/1",
+  "gfgSlug": "geeks-training",
+  "gfgTitle": "Geek&#x27;s Training | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.5
+ },
+ "296": {
+  "url": "https://www.geeksforgeeks.org/problems/chocolate-pickup-ii/1",
+  "gfgSlug": "chocolate-pickup-ii",
+  "gfgTitle": "Chocolate Pickup II | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "overlap": 0.5
+ },
+ "323": {
+  "url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
+  "gfgSlug": "subset-sum-problem-1611555638",
+  "gfgTitle": "Subset Sum Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.5
+ },
+ "318": {
+  "url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
+  "gfgSlug": "perfect-sum-problem5633",
+  "gfgTitle": "Count Subsets with Sum | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "317": {
+  "url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
+  "gfgSlug": "partitions-with-given-difference",
+  "gfgTitle": "Partitions with Given Difference | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.75
+ },
+ "315": {
+  "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
+  "gfgSlug": "0-1-knapsack-problem0945",
+  "gfgTitle": "0 - 1 Knapsack Problem | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "322": {
+  "url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
+  "gfgSlug": "rod-cutting0840",
+  "gfgTitle": "Rod Cutting | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "633": {
+  "url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
+  "gfgSlug": "longest-bitonic-subsequence0824",
+  "gfgTitle": "Longest Bitonic Subsequence | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "309": {
+  "url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
+  "gfgSlug": "longest-common-substring1452",
+  "gfgTitle": "Longest Common Substring | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "327": {
+  "url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+  "gfgSlug": "matrix-chain-multiplication0303",
+  "gfgTitle": "Matrix Chain Multiplication | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Hard",
+  "overlap": 1.0
+ },
+ "1023": {
+  "url": "https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1",
+  "gfgSlug": "longest-valid-word-with-all-prefixes",
+  "gfgTitle": "Longest Valid Word with All Prefixes | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 1.0
+ },
+ "1026": {
+  "url": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
+  "gfgSlug": "count-of-distinct-substrings",
+  "gfgTitle": "Count Distinct Substrings | Practice | GeeksforGeeks",
+  "gfgDifficulty": "Medium",
+  "overlap": 0.5
+ }
+}
